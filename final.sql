@@ -1,6 +1,7 @@
 University Database System
 
 link for erd diagram - https://app.diagrams.net/#G14oD6GTm3L7OESoja0UJBpnLpi5rjtm0-
+link for slide - https://www.canva.com/design/DAFUix2xYiw/mWJ81GsqEYBNpJ-uLtx1lA/view?utm_content=DAFUix2xYiw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Team Members
 1.Yernar Tastan
